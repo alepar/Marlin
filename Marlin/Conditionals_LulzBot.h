@@ -81,6 +81,7 @@
     #define LULZBOT_USE_Z_SCREW
     #define LULZBOT_BAUDRATE 250000
     #define LULZBOT_UUID "c3255c96-4097-4884-8ed0-ded2ff9bae61"
+    #define LULZBOT_USE_EXPERIMENTAL_FEATURES
 #endif
 
 #if defined(LULZBOT_Oliveoil_TAZ6)
